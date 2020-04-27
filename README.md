@@ -8,7 +8,6 @@ Simple binary to decimal conversor in Javascript and React.
 -   [x] User can enter a variable number of binary digits.
 
 <h3>🚀 Tecnologias usadas</h3>
-<br>
 <ul>
   <li>
     <a href="https://nodejs.org/en/">Node JS</a>
