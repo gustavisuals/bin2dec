@@ -17,7 +17,7 @@ Simple binary to decimal conversor in Javascript and React.
   <li><b>Fork</b> esse repositório;</li>
   <li>Crie uma branch com a sua feature: <code> git checkout -b my-feature </code></li>
   <li>Commit suas mudanças: <code> git commit -m 'feat: My new feature' </code></li>
-  <li>Push a sua branch: <code> git push origin my-feature </code><li>
+  <li>Push a sua branch: <code> git push origin my-feature </code></li>
 </ul>  
 
 <h3>🎓 Fontes</h3>
