@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import logo from './logo.png';
-import adImg from './adImg.png';
+import logo from './assets/logo.png';
+import adImg from './assets/adImg.png';
 import './App.css';
 
 function App() { 
@@ -19,7 +19,7 @@ function App() {
 
   setErrorMessage(' ')
 
-  const result = parseInt(binaryInput, 2)
+  const result = parseInt(binaryInput, 2) // Converte para base binária.
 
   setDecimalInput(result)
 

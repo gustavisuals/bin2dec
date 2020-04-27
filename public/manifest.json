@@ -3,17 +3,17 @@
   "name": "Convert binary to decimal simple.",
   "icons": [
     {
-      "src": "../src/favicon.png",
+      "src": "../src/assets/favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
     },
     {
-      "src": "../src/favicon.png",
+      "src": "../src/assets/favicon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "../src/favicon.png",
+      "src": "../src/assets/favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }

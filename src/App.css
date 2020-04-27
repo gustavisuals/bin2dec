@@ -26,44 +26,6 @@ form input {
   padding: 0 24px;
 }
 
-.App {
-  width: 100%;
-  max-width: 1120px;
-  height: 100vh;
-  margin: 0 auto;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.App-logo {
-  height: 100%;
-  pointer-events: none;
-  display: block;
-  margin-left: auto;
-  margin-right: auto; 
-}
-
-.App-header, .content {
-
-}
-
-.App-link {
-  color: #5CEC79;
-}
-
-.adArea {
-  margin: 20px;
-  align-items: center;
-}
-
-.adArea img {
-  border: 1px solid #1e2022;
-  border-radius: 4px;
-  padding: 5px;
-}
-
 section {
   width: 100%;
   max-width: 380px;
@@ -110,4 +72,37 @@ button:hover {
   filter: brightness(90%);
 }
 
+.App {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 100%;
+  pointer-events: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+
+.App-link {
+  color: #5CEC79;
+}
+
+.adArea {
+  margin: 20px;
+  align-items: center;
+}
+
+.adArea img {
+  border: 1px solid #1e2022;
+  border-radius: 4px;
+  padding: 5px;
+}
