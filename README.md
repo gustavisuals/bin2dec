@@ -16,8 +16,6 @@ Simple binary to decimal conversor in Javascript and React.
     <a href="https://pt-br.reactjs.org/">React</a>
   </li>
 </ul>
-<br>
-
 <h3>♻️ How to contribute</h3>
 <ul>
   <li><b>Fork</b> this repository;</li>
