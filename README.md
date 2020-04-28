@@ -1,5 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c23fa801-1897-47fb-ae98-e56dccbbb413/deploy-status)](https://app.netlify.com/sites/xenodochial-meninsky-13da9b/deploys)
+
 # bin2dec
-Simple binary to decimal conversor in Javascript and React.
+Simple binary to decimal conversor in Javascript and React. <a href="http://bin2dec.tk/">Visit here</a>.
 
 # User Stories
 -   [x] User can enter up to 8 binary digits in one input field.
