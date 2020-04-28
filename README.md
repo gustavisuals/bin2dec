@@ -1,5 +1,5 @@
 # bin2dec
-Simple binary to decimal conversor in Javascript and React.
+Simple binary to decimal conversor in Javascript and React. <a href="http://bin2dec.tk/">Visit here</a>.
 
 # User Stories
 -   [x] User can enter up to 8 binary digits in one input field.
